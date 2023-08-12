@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/web"
+    android:backgroundTintMode="multiply"
+    android:backgroundTint="#F1F1F1"
+    tools:context=".WelcomeScreen">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elegantTextHeight="true"
+        android:fontFamily="@font/gruppo"
+        android:gravity="center"
+        android:padding="2dp"
+        android:shadowColor="@color/black"
+        android:shadowDx="15"
+        android:shadowDy="15"
+        android:shadowRadius="55"
+        android:text=""
+        android:textColor="#ECECEC"
+        android:textSize="43sp" />
+
+
+</LinearLayout>

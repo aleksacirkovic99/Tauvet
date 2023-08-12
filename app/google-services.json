@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383800238871",
+    "project_id": "second-driving-test-d0453",
+    "storage_bucket": "second-driving-test-d0453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383800238871:android:842de2b5469b3d73854d52",
+        "android_client_info": {
+          "package_name": "si.uni_lj.fe.seconddrivingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383800238871-qcf6h1rofr3v71j8sahgjdmcsprtmh15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9JYE-vDt4-j5Lsv4MxytBWgHZTN-GWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383800238871-qcf6h1rofr3v71j8sahgjdmcsprtmh15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
